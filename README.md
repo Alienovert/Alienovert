@@ -1,8 +1,8 @@
 ### Hi there 👋
 my name's Gaspar...
 
-- 🔭 I’m currently working on Some personal projects
-- 🌱 I’m currently learning Python, WebDev, 
+- 🔭 I’m currently working on Some personal projects.
+- 🌱 I’m currently learning Python, WebDev. 
 - ⚡ Fun fact: Photography, my hobby...
 
 
