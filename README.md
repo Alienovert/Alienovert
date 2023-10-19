@@ -3,7 +3,7 @@ my name's Gaspar...
 
 - 🔭 I’m currently working on Some personal projects.
 - 🌱 I’m currently learning Python, WebDev. 
-- ⚡ Fun fact: Photography, my hobby...
+- ⚡ Fun fact: Space is completely silent because it lacks the air needed for sound to travel.
 
 
 
